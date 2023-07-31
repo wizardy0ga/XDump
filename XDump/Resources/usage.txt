@@ -1,0 +1,8 @@
+Usage: 
+
+	XDump only takes one or two arguments. Provide an image path and optionally the mutex.
+
+Examples:
+
+	XDump.exe c:\windows\temp\xclient.exe
+	XDump.exe c:\windows\temp\xclient.exe mutex_string_abc

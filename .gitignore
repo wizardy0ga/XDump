@@ -1,0 +1,29 @@
+# Compiled output
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userprefs
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.ncb
+*.sdf
+*.opensdf
+*.tss
+*.sln.docstates
+
+# Resharper files
+_resharper*
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+[Bb]in/
+[Oo]bj/
